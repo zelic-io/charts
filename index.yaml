@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cloudflare-zero-trust-operator:
+  - apiVersion: v2
+    appVersion: 0.0.2
+    created: "2022-11-13T21:29:04.484493605Z"
+    description: Operator for managing Cloudflare Zero Trust settings
+    digest: 1048203ed7c5b59fcba7af63df4e59148498af70fdc5b22d2bad6ed6db2a4fc6
+    name: cloudflare-zero-trust-operator
+    type: application
+    urls:
+    - https://github.com/zelic-io/charts/releases/download/cloudflare-zero-trust-operator-0.0.2/cloudflare-zero-trust-operator-0.0.2.tgz
+    version: 0.0.2
+generated: "2022-11-13T21:29:04.484499405Z"
