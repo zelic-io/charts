@@ -26,6 +26,6 @@ jobs:
           version: v3.10.0
 
       - name: Run chart-releaser
-        uses: florisvdg/chart-releaser-action@1a23f70cddff05ef50ff92afdb29a51ccf3dec28
+        uses: BojanZelic/chart-releaser-action@6c0bf5fbbc952a3ba53b1079b78e0d0285057c2b
         env:
           CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
